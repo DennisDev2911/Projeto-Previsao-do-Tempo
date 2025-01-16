@@ -1,0 +1,26 @@
+main {
+    margin-top: 8px;
+    text-align: center;
+}
+
+#icon-weather {
+    width: 225px;
+    height: auto;
+}
+
+#temperature {
+    font-size: 40px;
+    line-height: 0.8;
+    margin-top: 8px;
+}
+
+#local {
+    font-size: 36px;
+    line-height: 1;
+    font-weight: 600;
+}
+
+#humidity, #speed-wind, #temperature {
+    font-weight: 500;
+    font-family: 'bebas Neue',sans-serif;
+}
