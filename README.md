@@ -6,6 +6,8 @@
 ## 💻 Projeto
 
 Este projeto é um tutorial que ensina a como criar o site de **Previsão do Tempo** ao usar _HTML_ e _CSS_.
+<br>
+<h4>A previsão do tempo é a aplicação da ciência e tecnologia para fazer uma descrição detalhada de ocorrências futuras esperadas na atmosfera num certo local.</h4>
 
 ## 🚀 Tecnologias
 
