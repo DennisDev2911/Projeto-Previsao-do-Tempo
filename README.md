@@ -30,6 +30,6 @@ Este projeto é um tutorial que ensina a como criar o site de **Previsão do Tem
 
 ## 📺 Tutorial no Youtube
 
-<img src="https://github.com/DennisDev2911/Projeto---Previs-o-do-Tempo/blob/main/drive-youtube-previsao-tempo/assets/previs%C3%A3o%20do%20tempo.JPG?raw=true" />
+<img src="https://github.com/DennisDev2911/Projeto-Previsao-do-Tempo/blob/main/assets/icons/previs%C3%A3o%20do%20tempo.JPG?raw=true" />
 
 
