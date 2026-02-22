@@ -1,6 +1,6 @@
-@import url('./footer.css');
-@import url('./main.css');
-@import url('./form.css');
+@import url("./footer.css");
+@import url("./main.css");
+@import url("./form.css");
 
 * {
   padding: 0;
@@ -12,9 +12,14 @@
   --border: rgba(255, 255, 255, 0.5);
 }
 
-body, button, a, input {
+body,
+button,
+a,
+input {
   color: #fff;
-  font: 400 1rem "Poppins", sans-serif;
+  font:
+    400 1rem "Poppins",
+    sans-serif;
 }
 
 body {
@@ -28,7 +33,7 @@ body {
   position: fixed;
   inset: 0;
 
-  background-image: url('../assets/background.jpg');
+  background-image: url("../assets/icons/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -42,7 +47,7 @@ body {
 
   margin: auto;
   padding: 32px 32px 40px;
-  
+
   display: flex;
   flex-direction: column;
   row-gap: 24px;
@@ -57,12 +62,13 @@ body {
   transition: all 0.3s;
 }
 
-
 .card.active {
   height: 533px;
 }
 
-#humidity, #speed-wind, #temperature {
+#humidity,
+#speed-wind,
+#temperature {
   font-weight: 500px;
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: "Bebas Neue", sans-serif;
 }
